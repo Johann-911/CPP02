@@ -24,3 +24,4 @@ bool bsp(Point const a, Point const b, Point const c, Point const point)
 
   return (positive1 == positive2) && (positive2 == positive3);
 }
+
